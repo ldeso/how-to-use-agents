@@ -8,7 +8,7 @@
 ### Description
 
 Claude Code created two scripts in TypeScript: one fetches Aerodrome data from
-the blockchain, and one builds a HTML dashboard from that data. A GitHub Actions
+the blockchain, and one builds an HTML dashboard from the data. A GitHub Actions
 workflow runs these scripts every week, and at every code change pushed to the
 repository. Secret API keys that are required to access blockchain data
 providers are stored as "secrets" in the repository settings on GitHub.
